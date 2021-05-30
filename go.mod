@@ -1,1 +1,3 @@
-module "github.com/dengjiawen8955/how_to_release_my_package"
+module github.com/dengjiawen8955/how_to_release_my_package
+
+go 1.15
